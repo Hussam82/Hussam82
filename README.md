@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hussam82
-- 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning Embedded Linux and Machine Learning
-- 💞️ I’m looking to collaborate on a Graduation Project on Embedded Systems and Machine Learning
+- 👀 I'm a fresh graduate of Faculty of Engineering, EECE department, Cairo Unviersity
+- 👀 I’m interested in Embedded Systems and Embedded Linux
 - 📫 How to reach me https://www.linkedin.com/in/hussam-ali30/
 
 <!---
